@@ -1,0 +1,57 @@
+/* Sales Log Component Styles */
+
+/* Container styles */
+.container {
+    margin-top: 20px;
+    background-color: #4863A0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Table styles */
+  .table {
+    margin-bottom: 30px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .table th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #4863A0;
+  }
+  
+  /* Pagination button styles */
+  .btn-info {
+    background-color: #17a2b8;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-info:hover {
+    background-color: #138496;
+  }
+  
+  .btn-info:disabled {
+    background-color: #cfe2e6;
+    cursor: not-allowed;
+  }
+  
+  /* Row spacing */
+  .row {
+    margin-top: 10px;
+  }
+  
+  /* Column alignment for pagination buttons */
+  .col {
+    text-align: center;
+  }

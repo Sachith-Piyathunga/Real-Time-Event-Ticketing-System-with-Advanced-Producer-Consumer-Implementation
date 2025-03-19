@@ -1,0 +1,54 @@
+/* Navbar Styles */
+.headingtop{
+  text-align: center;
+  color: #b1aa93;
+}
+
+.headingtop p{
+  font-size: 28px;
+  font-weight: bold;
+}
+/* General styling for the navigation bar */
+.navbar {
+    padding: 0.5rem 1rem;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  /* Center the navigation items */
+  .nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Style for navigation items */
+  .nav-item {
+    margin: 0 1rem;
+  }
+  
+  /* Links within the navigation items */
+  .nav-link {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  /* Active link style */
+  .nav-link.active {
+    font-weight: bold;
+    color: #0056b3;
+  }
+  
+  /* Hover effect for links */
+  .nav-link:hover {
+    color: #981e2e;
+  }
+  
+  /* Optional: Add spacing for headings */
+  .nav-item h5 {
+    margin: 0;
+  }
+  
