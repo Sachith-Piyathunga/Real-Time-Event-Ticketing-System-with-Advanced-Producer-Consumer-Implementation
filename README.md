@@ -11,6 +11,12 @@ Key features include:
 * API backend for real-time data management.
 * Angular front-end for visualization and user management.
 
+---
+
+### Home Screen
+
+![image alt](https://github.com/Sachith-Piyathunga/Real-Time-Event-Ticketing-System-with-Advanced-Producer-Consumer-Implementation/blob/4208f725b8f61e4d710fbd74f44483d15a116feb/Image/1743078750443.jpg)
+
 <hr>
 
 ## System Components
